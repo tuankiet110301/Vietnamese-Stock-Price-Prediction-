@@ -31,6 +31,3 @@ This project utilizes Long Short-Term Memory (LSTM) and LSTM combined with Gated
 
 This project demonstrates the effectiveness of LSTM and LSTM + GRU models in predicting Vietnamese stock prices based on historical data. By leveraging deep learning techniques, investors and stakeholders can gain valuable insights into potential future trends in the Vietnamese stock market, aiding in decision-making processes and portfolio management strategies.
 
-## Usage
-
-- Clone the repository:
